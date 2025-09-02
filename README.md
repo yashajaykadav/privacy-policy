@@ -39,7 +39,9 @@ The app may request the following permissions:
 * **Internet access** to authenticate users and store order data
 * **Vibration control** for providing haptic feedback on order confirmation
 * **Play sound** for confirmation notifications
+## 📷 Camera Usage
 
+Our app requests access to your device’s camera for the sole purpose of allowing you to capture and upload food images to our server. These images are used to display food items on the application for order and browsing purposes. We do not access, store, or use any camera data beyond what is required for this function, and no images are shared with third parties except as necessary to fulfill your order or display items in the app.
 
  🔄 4. Data Storage & Security
 
