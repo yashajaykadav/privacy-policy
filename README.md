@@ -1,11 +1,6 @@
 # privacy-policy
-Awesome! Here's a **custom Privacy Policy** for your app based on the features you mentioned:
-
----
 
 ## 🛡️ Privacy Policy for Krishna Foods Ordering App
-
-**Effective Date**: \[Enter today’s date]
 
 Krishna Foods ("we", "our", or "us") operates the *Krishna Foods Ordering App* (the "App"). This Privacy Policy describes how we collect, use, and protect the personal information of our users.
 
